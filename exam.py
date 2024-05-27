@@ -1,1 +1,2 @@
 print("exam")
+print("preparation")
